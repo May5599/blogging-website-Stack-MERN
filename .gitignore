@@ -1,0 +1,14 @@
+# Ignore node_modules
+node_modules/*
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore the Firebase credentials file
+react-pro-blog-per-firebase-adminsdk-zeytt-172d574fd7.json
+
+
+requests.rest
